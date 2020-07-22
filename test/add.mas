@@ -1,0 +1,12 @@
+	org	100
+	input
+	store	a
+	input
+	store	b
+	add	a
+	store	c
+	output
+	halt
+a,	dec	0
+b,	dec	0
+c,	dec	0
